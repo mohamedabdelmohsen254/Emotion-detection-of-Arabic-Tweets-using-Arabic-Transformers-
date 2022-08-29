@@ -30,6 +30,9 @@ We used AraBERT-Base, AraBERT-Twitter, MarBERT, ArBERT and Qarib and best result
 
 [Emotion detection of Arabic Tweets using Arabic Transformers.pdf](https://github.com/mohamedabdelmohsen254/Emotion-detection-of-Arabic-Tweets-using-Arabic-Transformers-/files/9447747/Emotion.detection.of.Arabic.Tweets.using.Arabic.Transformers.pdf)
 
+[Arabic Transformers poster.pdf](https://github.com/mohamedabdelmohsen254/Emotion-detection-of-Arabic-Tweets-using-Arabic-Transformers-/files/9447813/Arabic.Transformers.poster.pdf)
+
+
 ## Notes on the Notebooks uploaded
 
 **Preprocessing techniques on Arabic text (without emojis and emoticons) Notebook**
